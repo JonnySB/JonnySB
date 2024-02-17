@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmazAwYWxsa3o5b2ZlcmJ5bTRiOGl2czJ5Y2ZqczYwYmkzaTFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
 </div>
 <div id="badges">
+  <a href="https://www.linkedin.com/in/jonny-brownrigg-56493575/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 ### Hi there and welcome to my GitHub 👋
 
