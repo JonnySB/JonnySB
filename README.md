@@ -20,7 +20,7 @@
   </a>
 
 ---
-💻 Technologies I'm proficient in:
+💻 I'm currently using:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
 </div>
 <br></br>
 
-🥅 Technologies I'd like to learn more about:
+🥅 I'd like to learn more about:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
