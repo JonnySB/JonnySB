@@ -76,4 +76,6 @@
 ## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonnySB&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<div id="stats" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnySB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazr/github-readme-stats)
+</div>
