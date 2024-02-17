@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmazAwYWxsa3o5b2ZlcmJ5bTRiOGl2czJ5Y2ZqczYwYmkzaTFlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
-</div>
+</div
+  
 ### Hi there and welcome to my GitHub 👋
 
 - 🌱 I’m currently studying software engineering on the makers intensive bootcamp
