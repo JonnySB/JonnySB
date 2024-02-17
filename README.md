@@ -56,7 +56,7 @@
 </div>
 <br></br>
 
-## 🥅 Some of the technologies like to learn more about:
+## 🥅 Some tech i'd like to learn more about:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
