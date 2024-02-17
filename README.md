@@ -3,10 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdoOGNoZngxaTdvYm4xYWY1NTBnN2ltOHptNm5uaDJyaGJyOG51NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
-
 ---
-
-
 
 👨‍💻 I am a Full Stack Developer based in London
 
