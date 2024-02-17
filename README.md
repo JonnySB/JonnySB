@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to my GitHub 👋
+
+- 🌱 I’m currently studying software engineering on the makers intensive bootcamp
+- 🔭 I’m working on a number of different projects across a range of technologies - checkout my repos!
+- ⚡ I'm passionate about linux and open source, and am excited to collaborate on public repos!
+- 💬 Ask me about my background as a Management Consultant at PwC (specialising in data) and how I'm bringing these skills into a career as a developer
+- 📫 Please do get in touch with me at: [myLinkedIn](https://www.linkedin.com/in/jonny-brownrigg-56493575/)
 
 <!--
 **JonnySB/JonnySB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying software engineering on the makers intensive bootcamp.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
