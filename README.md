@@ -7,7 +7,7 @@
 
 ## 👨‍💻 I'm a Full Stack Developer based in London
 
-- 🌱 I’ve recently finished the Makers Bootcamp and am looking for a new challenge.
+- 🌱 I’ve recently finished the Makers Bootcamp and am looking for a new challenge
   
 - 🔭 I’m working on a number of different projects at the moment - checkout my repos!
   
@@ -15,9 +15,9 @@
   
 - 📕 I'm currently gaining deeper experience in Python (Flask, Django) and JavaScript (React)
   
-- 📘 I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java.
+- 📘 I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java
   
-- 💬 Ask me how my background as a Management Consultant at PwC and the transferable skills I bring are helping me as a developer!
+- 💬 Ask me how my background as a Management Consultant at PwC is helping me as a transition to software engineering
   
 - 📫 I'd love to hear from you, so please do reach out on <a href="https://www.linkedin.com/in/jonny-brownrigg-56493575/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
