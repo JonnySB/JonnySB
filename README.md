@@ -11,7 +11,7 @@
   
 - 🔭 I’m working on a number of different projects at the moment - checkout my repos!
   
-- ⚡ I'm passionate about all things linux, open source, and excited to collaborate on projects!
+- ⚡ I'm passionate about all things linux, open source, and excited to collaborate on most types of projects!
   
 - 📘 In addition to developing deeper experience in the tools I already use, I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java.
   
