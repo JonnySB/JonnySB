@@ -7,13 +7,15 @@
 
 ## 👨‍💻 I'm a Full Stack Developer based in London
 
-- 🌱 I’ve recently finished studying software engineering on the Makers intensive Software Engineering Bootcamp and am looking for a new challenge
+- 🌱 I’ve recently finished the Makers Bootcamp and am looking for a new challenge.
   
 - 🔭 I’m working on a number of different projects at the moment - checkout my repos!
   
-- ⚡ I'm passionate about all things linux, open source, and excited to collaborate on most types of projects!
+- ⚡ I'm passionate about all things linux, open source, and I'm excited to collaborate on most types of projects!
   
-- 📘 In addition to developing deeper experience in the tools I already use, I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java.
+- 📕 I'm currently gaining deeper experience in Python (Flask, Django) and JavaScript (React)
+  
+- 📘 I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java.
   
 - 💬 Ask me how my background as a Management Consultant at PwC and the transferable skills I bring are helping me as a developer!
   
