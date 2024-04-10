@@ -13,7 +13,7 @@
   
 - ⚡ I'm passionate about all things linux, open source, and I'm excited to collaborate on most types of projects!
   
-- 📕 I'm currently gaining deeper experience in Python (Flask, Django) and JavaScript (React)
+- 📕 I'm currently gaining deeper experience in Python (Flask, Django), JavaScript (React) and Go.
   
 - 📘 I'm interesting in learning more about low-level and efficiency-first languages such as C, C++, go and Java
   
